@@ -1,0 +1,4 @@
+1. To create api key based access in application we can JWT tokens to create access based on user permissions when user login or sign up to application we can create JWT 
+    token after verifying credenticals.
+2. To resolve merge confilct we can either choose to accept the code from remote branch or we can manually go through the codes edit the current version 
+   of files in each files and commit the changes.
